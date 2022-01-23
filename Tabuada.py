@@ -1,7 +1,7 @@
 linha = 1
 coluna = 1
 
-# Cria o calculo da Tabuada
+# Cria o calculo da Tabuada corrigido.
 while linha <= 10:
     while  coluna <= 10:
        print (linha * coluna, end = "\t")
